@@ -1,5 +1,7 @@
 ## Hello, DNS here!
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=thatdns.readme)
+
 <picture>
   <source
     srcset="https://github-readme-stats-tan-two-25.vercel.app/api?username=thatdns&show_icons=true&count_private=true&hide=stars&theme=dark"
