@@ -2,12 +2,12 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=thatdns.readme)
 
-- Software engineer passionate about high-performance systems and game/engine development.
-- Built low-latency trading systems at D.E. Shaw and 3D gameplay systems in Unity/Unreal.
-- Experienced in C++, Python, C#, Go, and full-stack development in general.
-- Currently learning graphics programming and building Unity games in my free time.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="bio-dark.svg">
+  <img alt="bio" src="bio-light.svg">
+</picture>
 
-More about me: [About Me | ThatDNS](https://www.thatdns.dev/about/)
+[About Me | ThatDNS](https://www.thatdns.dev/about/)
 
   <!-- <picture>
 <source
